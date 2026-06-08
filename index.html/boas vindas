@@ -1,12 +1,17 @@
-<h1>Meu blog tech</h1>
-
-<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Boas-vindas</title>
+    <title>Meu Blog Tech</title>
 </head>
 <body>
-    <h1>Seja bem-vindo(a)!</h1>
+    <h1>Meu Blog Tech</h1>
+
+    <p>Bem-vindo ao Meu Blog Tech! Este espaço foi criado para compartilhar conhecimentos, dicas e experiências sobre tecnologia e programação.</p>
+
+    <p>A tecnologia está presente em praticamente todos os aspectos da vida moderna, facilitando a comunicação, a educação, o trabalho e o entretenimento. Com a constante evolução de softwares, dispositivos e sistemas inteligentes, surgem novas oportunidades para inovar, aprender e transformar a sociedade.</p>
+
+    <h2>Seja bem-vindo(a)!</h2>
     <p>Obrigado por visitar nosso site.</p>
+</body>
+</html>

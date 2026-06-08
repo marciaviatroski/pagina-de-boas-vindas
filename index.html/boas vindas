@@ -1,3 +1,24 @@
 <h1>Meu blog tech</h1>
 
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Boas-vindas</title>
+</head>
+<body>
+    <h1>Seja bem-vindo(a)!</h1>
+    <p>Obrigado por visitar nosso site.</p>
+
+    <h2>Sobre o nosso site</h2>
+    <p>
+        Este é um espaço dedicado ao universo da tecnologia. Aqui você poderá
+        conhecer novidades sobre programação, inteligência artificial, robótica,
+        segurança digital e outras inovações que fazem parte do nosso dia a dia.
+        Nosso objetivo é compartilhar conhecimento e despertar o interesse pela
+        tecnologia de forma simples e acessível.
+    </p>
+</body>
+</html>
